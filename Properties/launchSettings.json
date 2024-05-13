@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "EmailProvider": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7286"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 32039,
+      "useSSL": false
+    }
+  }
+}
