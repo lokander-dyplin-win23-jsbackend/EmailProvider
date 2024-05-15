@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailProvider", "EmailProvider.csproj", "{FE72E77F-31ED-49EA-8980-5733979FE96D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailProvider", "EmailProvider.csproj", "{FE72E77F-31ED-49EA-8980-5733979FE96D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
